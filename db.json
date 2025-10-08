@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "InputA": [
+  { "id": 1, "name": "Alice", "dept": "Engineering", "age": 29 },
+  { "id": 2, "name": "Bob", "dept": "HR", "age": 35 },
+  { "id": 3, "name": "Charlie", "dept": "Finance", "age": 41 },
+  { "id": 4, "name": "David", "dept": "Marketing", "age": 26 }
+],
+  "InputB": [
+  { "id": 3, "city": "New York", "salary": 90000 },
+  { "id": 4, "city": "Los Angeles", "salary": 75000 },
+  { "id": 5, "city": "Chicago", "salary": 68000 },
+  { "id": 6, "city": "Seattle", "salary": 72000 }
+]
 }
